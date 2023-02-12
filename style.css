@@ -1,0 +1,20 @@
+h2{
+    color :limegreen
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item{
+    border:2px solid coral
+}
+img:hover{
+    transform:translate(3%,3%)
+}
+p{color:white}
+a:link{
+    color:rgb(20, 93, 228)
+} a:visited{
+    color:blueviolet
+}
